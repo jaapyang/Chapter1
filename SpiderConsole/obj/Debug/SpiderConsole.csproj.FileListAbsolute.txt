@@ -1,0 +1,6 @@
+E:\test\consoleApp\ConsoleApplication1\SpiderConsole\bin\Debug\SpiderConsole.exe.config
+E:\test\consoleApp\ConsoleApplication1\SpiderConsole\bin\Debug\SpiderConsole.exe
+E:\test\consoleApp\ConsoleApplication1\SpiderConsole\bin\Debug\SpiderConsole.pdb
+E:\test\consoleApp\ConsoleApplication1\SpiderConsole\obj\Debug\SpiderConsole.exe
+E:\test\consoleApp\ConsoleApplication1\SpiderConsole\obj\Debug\SpiderConsole.pdb
+E:\test\consoleApp\ConsoleApplication1\SpiderConsole\obj\Debug\SpiderConsole.csprojResolveAssemblyReference.cache
